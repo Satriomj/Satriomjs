@@ -4,13 +4,18 @@
 👩🏻‍💻 Frontend Developer<br/>
 👩🏻‍🎓 Studied [Informatic Engineering] at Institute Technology Sumatera, Indonesia<br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
+<img align="right" alt="Coding" width="200" height="250" src="bggit.jpg">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satrio-maruli-jaya-sianturi-330023222)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/satrio__sianturi?igshid=OXdsY2ZjZ3pmeW9q)
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Satriomj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Satriomj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->

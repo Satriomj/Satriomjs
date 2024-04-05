@@ -4,6 +4,15 @@
 👩🏻‍💻 Frontend Developer<br/>
 👩🏻‍🎓 Studied [Informatic Engineering] at Institute Technology Sumatera, Indonesia<br/>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/bayu-iswahyudi-761457226/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bayu1s" height="30" width="40" /></a>
+<a href="https://instagram.com/bayu1swahyudi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bayu1swahyudi" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/bayu-iswahyudi-761457226/" target="blank"><![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)/></a>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ![](https://github-readme-stats.vercel.app/api?username=Satriomj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack

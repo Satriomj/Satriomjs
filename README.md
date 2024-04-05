@@ -4,8 +4,8 @@
 👩🏻‍💻 Frontend Developer<br/>
 👩🏻‍🎓 Studied [Informatic Engineering] at Institute Technology Sumatera, Indonesia<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
-<img align="right" alt="Coding" width="200" height="250" src="bggit.jpg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="Satriomj" /> </p>
+<img align="right" alt="Coding" width="300" height="300" src="sat.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Satrio Sianturi!
-👩🏻‍💻 Frontend Developer<br/>
+👩🏻‍💻 Frontend Web Developer<br/>
 👩🏻‍🎓 Studied [Informatic Engineering] at Institute Technology Sumatera, Indonesia<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="Satriomj" /> </p>
